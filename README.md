@@ -15,7 +15,7 @@ https://github.com/NoSubstitute/CB_Inventory/wiki
 
 **How to update CB_Inventory**
 
-Just grab a new copy of the [template](https://docs.google.com/spreadsheets/d/1IuVHMwsPDPjVk-1flzhft-q3SifPFHJSPEq4182CVTM/copy) and delete your old file.
+Just grab a new copy of the [template](https://docs.google.com/spreadsheets/d/1IkgzV4tmzLxcOtaQuYOcMU9N-ctV4RW5D-p26Mh-hPk/copy) and delete your old file.
 
 [PRIVACY POLICY](https://tools.no-substitute.com/pp)
 
