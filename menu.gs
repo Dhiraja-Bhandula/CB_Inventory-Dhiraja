@@ -37,6 +37,7 @@ function onOpen(e) {
     .addSeparator()
     .addItem('Update devices on sheet UpdateCBs', 'updateChromebook')
     .addSeparator()
+    .addItem('Update devices on sheet UpdateCBs', 'updateChromebookByAsset')
     .addItem('Enable devices on sheet UpdateCBs', 'enableChromebook')
     .addSeparator()
     .addItem('Disable devices on sheet UpdateCBs', 'disableChromebook')
